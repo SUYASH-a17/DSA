@@ -1,0 +1,5 @@
+Sorting a number in a big list
+To sort a list in billion number we need to divide it 31 times to get the desired number
+So BigO will be log n = 31 or 2^31 = n
+billion number = n
+It's very efficient in terms of time complexity
